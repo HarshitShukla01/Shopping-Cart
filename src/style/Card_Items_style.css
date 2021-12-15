@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+.Card-Cards_Items{
+	margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  box-shadow: 2px 3px 7px 0px black;
+  border: 1px solid black;
+  /*font-family: 'Lobster', cursive;*/
+  font-family: 'Concert One', cursive;
+}
+
+.Card_title-Cards_Items{
+  
+  font-family: 'Lobster', cursive;
+
+}
+.Card_body-Cards_Items{
+  text-align: center;
+}
+
+.card_img-Cards_Items {
+  width: 100%;
+  height: 30vh;
+  object-fit: contain;
+}
+
+.icon_circle-Cards_Items{
+  color: green;
+  position: relative;
+  top: 7px;
+}
+
+.icon_empty-Cards_Items{
+  color: red;
+  position: relative;
+  top: 7px;
+}
+
+.button-Card_Item{
+  font-family: 'Bree Serif', serif;
+  margin-top: 10px;
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&display=swap');
+.main_div-Shopcart{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   justify-items: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.scroll_div-Shopcart{
+ /* border-top: 2px solid #d76060;*/
+ /* border-bottom: 2px solid #d76060;*/
+  max-width: 90vw;
+  height: 450px;
+ overflow-x: hidden;
+
+}
+
+.h5-Shopcart{
+	font-family: 'Barlow Condensed', sans-serif;
+    font-size: 40px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0575c5; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #0575c5; 
+}
+
+@media(max-width: 600px){
+   .h5-Shopcart{
+    font-size: 30px;
+   }
+   .scroll_div-Shopcart{
+      max-width: 100%;
+      height: 520px;
+   }
+}

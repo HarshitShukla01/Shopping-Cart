@@ -1,0 +1,37 @@
+.carousel {
+  width:50vw;
+  height:500px;
+  margin: auto;
+  margin-top: 5px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    margin-top: -100px;
+}
+
+.main_div-Carousel_Home{
+  background-color: black;
+  height: 400px;
+}
+
+.img_item_carousel-Carousel_Home{
+  height: 400px;
+}
+
+@media(max-width: 440px){
+  .carousel {
+    width:100vw;
+  }
+  .main_div-Carousel_Home{
+  margin: 0px;
+  padding: 0px;
+  height: 200px;
+ }
+ .img_item_carousel-Carousel_Home{
+  height: 200px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    margin-top: -300px;
+}
+
+}

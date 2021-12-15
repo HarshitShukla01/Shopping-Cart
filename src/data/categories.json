@@ -1,0 +1,26 @@
+[
+  {
+    "id": "keyboardID",
+    "name": "Keyboards",
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_DKME1961ST-USPDZZT1_10.jpg",
+    "description": "Buy different keyboard from any brand available"
+  },
+  {
+    "id": "HeadphoneID",
+    "name": "Headphones",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71BKQhFzDmL._AC_SY355_.jpg",
+    "description": "Find best-fit for your ears"
+  },
+  {
+    "id": "SmartwatchID",
+    "name": "Smart Watch",
+    "thumbnail": "https://gloimg.gbtcdn.com/storage/item/6561660415148015616/16000/81d2a09cab03.jpg",
+    "description": "Don't let your wrist empty"
+  },
+  {
+    "id": "TabletID",
+    "name": "Tablet",
+    "thumbnail": "https://www.maclocks.eu/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/u/n/universal-tablet-holder-iso-01-no-cable.jpg",
+    "description": "Take a step towards new technology"
+  }
+]

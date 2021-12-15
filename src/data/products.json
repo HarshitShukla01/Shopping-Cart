@@ -1,0 +1,122 @@
+[
+  {
+    "id": "a1",
+    "name": "Ducky One 2",
+    "price": 100,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_DKME1961ST-USPDZZT1_10.jpg",
+    "inStock": true,
+    "categoryId": "keyboardID"
+  },
+  {
+    "id": "a2",
+    "name": "Varmilo Sakura",
+    "price": 140,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_2790_SakuraTKL_1.jpg",
+    "inStock": true,
+    "categoryId": "keyboardID"
+  },
+  {
+    "id": "a3",
+    "name": "MK Disco",
+    "price": 80,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_2017_Disco_White_Caps_1.png",
+    "inStock": false,
+    "categoryId": "keyboardID"
+  },
+  {
+    "id": "b1",
+    "name": "Razer Kraken",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71BKQhFzDmL._AC_SY355_.jpg",
+    "inStock": false,
+    "categoryId": "HeadphoneID"
+  },
+  {
+    "id": "b2",
+    "name": "HyperX Cloud II",
+    "price": 115,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/719KtJ-RAFL._AC_SL1417_.jpg",
+    "inStock": true,
+    "categoryId": "HeadphoneID"
+  },
+  {
+    "id": "b3",
+    "name": "Sennheiser PC 3 Chat",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61kIoNSe3VL._SL1500_.jpg",
+    "inStock": true,
+    "categoryId": "HeadphoneID"
+  },
+  {
+    "id": "c1",
+    "name": "Olleo Watch",
+    "price": 100,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61xzuXWWozS._SY355_.jpg",
+    "inStock": true,
+    "categoryId": "SmartwatchID"
+  },
+  {
+    "id": "c2",
+    "name": "Tantan",
+    "price": 140,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://rukminim1.flixcart.com/image/416/416/kg15ocw0/smartwatch/g/r/4/w26-series-6-thermometer-385x320-pixel-smartwatch-android-ios-original-imafwcz7dts7xp2r.jpeg?q=70",
+    "inStock": true,
+    "categoryId": "SmartwatchID"
+  },
+  {
+    "id": "c3",
+    "name": "DiscJ",
+    "price": 80,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://i.gadgets360cdn.com/products/wearables/large/1551968959_832_samsung_gear-fit-smartwatch.jpg",
+    "inStock": false,
+    "categoryId": "SmartwatchID"
+  },
+  {
+    "id": "d1",
+    "name": "MicroLoft",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXh-2ktqQiarikFGq-isAJcmYeFY0tTH6rFw&usqp=CAU",
+    "inStock": false,
+    "categoryId": "TabletID"
+  },
+  {
+    "id": "d2",
+    "name": "Samsing",
+    "price": 115,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://img.etimg.com/thumb/msid-76216026,width-650,imgsize-235016,,resizemode-4,quality-100/surface-pro-7-does-everything-that-a-tablet-should-do-and-doubles-up-as-a-really-efficient-laptop-.jpg",
+    "inStock": true,
+    "categoryId": "TabletID"
+  },
+  {
+    "id": "d3",
+    "name": "Hyper Packet",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://m.media-amazon.com/images/I/71v8Md+kzjL._AC_SL1500_.jpg",
+    "inStock": true,
+    "categoryId": "TabletID"
+  }
+]

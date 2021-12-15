@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
+
+.upper_div-Category{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.card_div-Category{
+	display: flex;
+	justify-content: space-evenly;
+}
+.inner_div-Category{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    font-size: 40px;
+}
+
+.img-Category{
+	width:100px;
+	height:100px;
+}
+
+.img-Category:hover{
+	position: relative;
+	left: -10px;
+}
+.h1-Category{
+  font-weight: bold;
+  /*font-family: 'Rye', cursive;*/
+  font-family: 'Graduate', cursive;
+}
+
+@media(max-width: 660px){
+   .img-Category{
+	width:70px;
+	height:70px;
+   }
+   .h1-Category{
+   	margin-left: 4%;
+   margin-top: 5%;
+   }
+}

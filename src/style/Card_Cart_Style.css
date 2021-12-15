@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600&display=swap');
+
+.main_col-Card_Cart{
+	text-align: center;
+    display: flex;
+	justify-content: center;
+	margin: 0px;
+	padding: 0px;
+   margin-top: 20px;
+
+}
+.row-Card_Cart{
+	min-width: 80vw;
+	max-width: 95vw;
+	text-align:'center';
+	align-items: center;
+	border: 2px solid blue;
+}
+
+.col_img-Card_Cart{
+	margin: 5px 0;
+}
+.img-Card_Cart{
+	height: 80px;
+	width:  100px !important;
+}
+
+.div_main-Card_Cart{
+	display: flex;
+	border: 1px solid black;
+	border-radius: 20px;
+	box-shadow: 4px 4px 2px black;
+	min-width: 80vw;
+	max-width: 80vw;
+	padding: 2px 5px;
+}
+.col_quant-Card_Cart{
+	display: flex;
+	align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+	min-width: 4%;
+}
+
+.name-Card_Cart,.price-Card_Cart,.total-Card_Cart{
+	display: flex;
+	align-items: center;
+    justify-content: center;
+    min-width: 25%;
+	font-size: 25px;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+.delete-Card_Cart{
+  display: flex;
+	align-items: center;
+    justify-content: center;
+}
+.delete_button-Card_Cart{
+  background: none;
+  border:  0px;
+  color: red;
+}
+.name-Card_Cart{
+	font-family: 'Otomanopee One', sans-serif;
+}
+/*font-size: 10px !important;*/
+@media(max-width: 600px){
+	.main_col-Card_Cart{
+	font-size: 20px !important;
+	margin-left: -2px !important;
+    }
+    .div_main-Card_Cart{
+	display: flex;
+	min-width: 44vw;
+	max-width: 45vw;
+	flex-direction: column;
+	justify-content: space-evenly;
+    }
+    .col_quant-Card_Cart{
+    	display: flex;
+    	justify-content: space-evenly;
+    	margin-top: 20px;
+    	margin-bottom: 20px;
+    }
+    .quant-Card_Cart{
+     display: flex;
+	 flex-direction: column;
+	 min-width: 0px;
+    }
+    .name-Card_Cart,.price-Card_Cart,.total-Card_Cart{
+	font-size: 20px;
+   }
+   .name-Card_Cart{
+   	font-size: 18px;
+   }
+   .delete-Card_Cart{
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+   }
+   .delete_button-Card_Cart{
+   	float: right;
+   }
+}
